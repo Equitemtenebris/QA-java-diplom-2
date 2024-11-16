@@ -1,0 +1,1 @@
+{"uuid":"e664149f-fa5b-4e77-b9ef-78e340672358","name":"Проверка создания заказа","children":["affc5ef8-9185-471b-8f60-20faac37932d"],"befores":[{"name":"getIngredients","status":"passed","stage":"finished","steps":[],"attachments":[],"parameters":[],"start":1731769864512,"stop":1731769864512}],"afters":[],"start":1731769864510,"stop":1731769866622}

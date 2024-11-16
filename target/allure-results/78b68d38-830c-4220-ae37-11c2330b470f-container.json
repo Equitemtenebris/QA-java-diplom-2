@@ -1,0 +1,1 @@
+{"uuid":"78b68d38-830c-4220-ae37-11c2330b470f","name":"Проверка получения списка заказов без авторизации","children":["bdb21567-095c-40ec-a6ac-13a31d942432"],"befores":[{"name":"getIngredients","status":"passed","stage":"finished","steps":[],"attachments":[],"parameters":[],"start":1731769870653,"stop":1731769870653}],"afters":[],"start":1731769870650,"stop":1731769871133}

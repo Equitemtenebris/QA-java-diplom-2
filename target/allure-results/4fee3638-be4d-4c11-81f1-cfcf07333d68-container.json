@@ -1,0 +1,1 @@
+{"uuid":"4fee3638-be4d-4c11-81f1-cfcf07333d68","name":"Проверка создания пользователя без одного из обязательных полей","children":["27cd8edd-5505-4ac3-b8dd-e3fea9bcf805"],"befores":[{"name":"setUp","status":"passed","stage":"finished","steps":[],"attachments":[],"parameters":[],"start":1731769857216,"stop":1731769857841}],"afters":[],"start":1731769857153,"stop":1731769859919}
